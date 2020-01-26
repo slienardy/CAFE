@@ -1,13 +1,22 @@
 # CAFE :Automatic Correction and Feedback to Students
 
-!! Work in progress !!
-
-This repository will contain (coming soon):
+This repository contains 
 * CAFÉ sources
 * Examples of Challenges instructions
 * Examples of Challenges correction scripts
 
-Why it will take time
--
+# Make CAFÉ works
 
-A lot of documents are in French and are going to be translated in English.
+* Read a particular Challenge instructions (.pdf file)
+* Fill the Challenge template
+* Run the challengeX.py script to get the feedback and feedforward message. (X is the Challenge number)
+
+# Author
+
+Simon Liénardy
+
+# License
+
+See the LICENSE file 
+
+CAFÉ uses some code from the project pycparser (https://github.com/eliben/pycparser). This project is under its own license.
