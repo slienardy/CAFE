@@ -1,0 +1,108 @@
+#
+/* 
+ Template for Challenge 0
+ Author : S. Liénardy (ULiège)
+
+ 0. Introduction
+ ===============
+
+ 0.1 Comments
+ ------------
+
+ Comments are allowed in the submitted challenge:
+ - Multiple lines comments between /* and * / (without the space between * and /)
+ - Single line comment starting with //
+ 
+ Comments are automatically suppressed during the correction step.
+
+ 0.2 Answers
+ -----------
+
+ The lines that do not contain a comment are considered as an answer. Here is an example. If the
+question is: "What is the color of Napoleon white’s horse?" 1 , the template will indicate the number of
+the question and the expected format (between brackets):
+
+0.2 [1 word, small case characters]
+*/
+
+
+
+/*
+ As it can be seen, one just has to write "white" (do not forget to actually write
+ the answer). Blank lines may be added. It is recommended to be case insensitive
+ during the correction.
+ 
+ 0.3 Answer separator
+ --------------------
+ 
+ Each answer is separated by a "#". To not answer a question, one just has to left
+ it blank. A blank answer must be at least one white-space character (e.g. a
+ newline one).
+ */
+/*
+ 1 Russian peasant multiplication
+
+ Here is the way to represent the Russian peasan multiplication:
+
+ Separate the columns with the '|' symbol.
+ Separate the rows with a newline character.
+
+ There are 4 columns: multiplicand, multiplier, remainder and partial sum.
+ Do not add title to the columns but respect their respective order. Write a
+ number in each cell of the array, not a computation.
+ 
+ Example for 68 * 123. here is the expected array: 
+ 
+  123 | 68 | 0 |    0
+  246 | 34 | 0 |    0
+  492 | 17 | 1 |  492
+  984 |  8 | 0 |  492
+ 1968 |  4 | 0 |  492
+ 3936 |  2 | 0 |  492
+ 7872 |  1 | 1 | 8364
+ 
+*/
+#
+/* 
+  1.1 Russian peasant multiplication: 74 x 48 [Formatted as explained above]
+*/
+
+
+/* Write above the Russian peasant multiplication of 74 x 48 */
+#
+/*
+  1.2 Russian peasant multiplication: 34 x 23 [Formatted as explained above]
+*/
+
+
+/* Write above the Russian peasant multiplication of 34 x 23 */
+#
+/*
+  2 Decimal to binary conversion
+  2.1 Converting 842 to binary number [16 bits number consisting of 0's and 1's]
+  example : 5 -> 0000000000000101 (no space between the bits)
+*/
+
+
+/* Write above the binary conversion of 842*/
+#
+/*
+  2.1 842 as a sum of powers of 2 [numbers separated by the symbol '+']
+*/
+
+
+/* Write above 842 as a sum of powers of 2*/
+#
+/*
+  2.2 Converting 3242 to binary number [16 bits number consisting of 0's and 1's]
+*/
+
+
+/* Write above the binary conversion of 3242*/
+#
+/*
+  2.2 3242 as a sum of powers of 2 [numbers separated by the symbol '+']
+*/
+
+
+/* Write above 3242 as a sum of powers of 2 */
