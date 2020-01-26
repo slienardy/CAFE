@@ -263,7 +263,7 @@ class GroundTruth(object):
     thought to make the student answer parsing and correcting a bit cleaner. 
     """
     
-    POSITIVE = ('OK !\n', 'Parfait !\n', 'TB !\n', 'Correct !\n')
+    POSITIVE = ('OK!\n', 'Perfect!\n', 'Great!\n', 'Correct!\n')
     
     def __init__(self, num, name, structure):
         """Constructor
