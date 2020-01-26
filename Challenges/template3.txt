@@ -1,0 +1,73 @@
+/*
+Challenge 3 : Arrays and Invariants
+Author : S. Liénardy (ULiège)
+
+Instructions reminder
+---------------------
+
+- C comments are allowed;
+- DO NOT MODIFY the '#'. 
+
+*/
+/*
+Graphical Loop Invariant
+________________________________________________________________________________
+
+Write, after this comment, the 19 choices, as described in the instructions. (Column number followed by a dot, followed by the numerical value, the variable or constant name correponding to your choice).
+ 
+For your convenience, the 19 box numbers and the dots are already written. Please respect the box numbers order. 
+*/
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 
+16. 
+17. 
+18. 
+19. 
+/* Encode your Loop Invariant above*/
+#
+/*
+Loop Variant
+________________________________________________________________________________
+
+Encode your Loop Variant as a valid C expression
+*/
+
+
+
+/* Encode your Loop Variant above */
+#
+/*
+Code
+________________________________________________________________________________
+
+Type your code below, i.e. what should replace the line "Your code will be inserted here" in the template presented in the instructions.
+
+YOU MUST NOT: 
+- Add the line "#include <stdio.h>";
+- Write "int main(){", nor the '}' ending the main function;
+- Declare again A, B, C, L, M, N. These variables and constants are ALREADY 
+  declared. 
+  
+HINT:
+Open this file with a software that can display the C language syntax coloration.
+*/
+
+
+
+
+
+
+/* Type your code above. */
