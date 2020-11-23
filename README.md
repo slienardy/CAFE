@@ -1,4 +1,12 @@
-# CAFE :Automatic Correction and Feedback to Students
+# Important remark
+
+This source code will be updated by January 2021.
+New features include:
+* Non-grading feedback generation (just formative assessment)
+* Non-blocking compilation preprocessing (enables to correct the rest of the Challenge)
+* C Memory allocation assessment example
+
+# CAFE: Automatic Correction and Feedback to Students
 
 This repository contains 
 * CAFÉ sources
